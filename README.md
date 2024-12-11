@@ -1,0 +1,3 @@
+# Next.js Link Component Navigation Issue
+
+This repository demonstrates a common issue encountered when using the Next.js `Link` component: unexpected navigation behavior or errors. The example shows a simple `Link` component that should navigate to a '/profile' route.  However, due to either a missing route or a configuration error, this navigation fails. The solution will focus on resolving this failure through proper routing configuration or component implementation.
